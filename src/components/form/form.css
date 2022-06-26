@@ -1,0 +1,8 @@
+.button{
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+form > label {
+    margin-left: 20px;
+}
